@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e77547a-d718-4ffd-b42a-baf4d08c3a07" name="Default Changelist" comment="" />
+    <list default="true" id="6e77547a-d718-4ffd-b42a-baf4d08c3a07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kebab/Sauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kebabdesign/kebab/Kebab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kebabdesign/kebab/Kebab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kebabdesign/kebab/aliment/Aliment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kebabdesign/kebab/aliment/TypeAliment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kebabdesign/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kebabdesign/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kebab/Kebab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kebab/Kebab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kebab/aliment/Aliment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kebab/aliment/TypeAliment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kebab/Aliment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZZoboAqACcvzhQI6frVgOpkmaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -57,11 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585056050562</updated>
-      <workItem from="1585056054413" duration="3745000" />
+      <workItem from="1585056054413" duration="4237000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

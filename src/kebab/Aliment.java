@@ -1,6 +1,6 @@
-package kebab.aliment;
+package kebab;
 
-public enum TypeAliment {
+public enum Aliment {
     VIANDE ("Viande", false, false),
     POISSON ("Poisson", false, true),
     SALADE ("Salade", true,false),
@@ -13,7 +13,7 @@ public enum TypeAliment {
     private Boolean isVegetalAliment;
     private Boolean isFishAliment;
 
-    TypeAliment(String name, Boolean isVegetalAliment, Boolean isFishAliment){
+    Aliment(String name, Boolean isVegetalAliment, Boolean isFishAliment){
         this.name = name;
         this.isVegetalAliment = isVegetalAliment;
         this.isFishAliment = isFishAliment;
